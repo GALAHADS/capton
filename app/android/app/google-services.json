@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82870674788",
+    "project_id": "howard-9d223",
+    "storage_bucket": "howard-9d223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82870674788:android:d8b130981dc06e26d98671",
+        "android_client_info": {
+          "package_name": "com.example.usedapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhhTesKKuP97AyWICa-OWBHgpWwYbgl_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
